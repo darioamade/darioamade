@@ -2,12 +2,11 @@
 
 - 🔭 I’m currently working on ...Private projects
 - 🌱 I’m currently learning ...Node.js and improving my Javascript Skills
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...Front End Wed dev Topics
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Youtube Channel](shorturl.at/puBPQ)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I like to ride bikes a lot 
+- 📫 How to reach me: ...[Youtube](https://www.youtube.com/channel/UCHNiz5ljfYgQQUiJGOm63Sg?view_as=subscriber) 
+- 😄 Pronouns: ...He/ Him
+- ⚡ Fun fact: ...I like to ride bikes a lot 🚴‍
 -->
 
 
@@ -16,5 +15,10 @@ I want to make a small game this year. I'm currently learning and Improve my ski
 I am planning to learn React in upcommings months.
 
 
-###   ☕️ Want to Chat
+###   Find me
 👉@ me on  [Twitter](https://twitter.com/darioamade) about any thing web dev related
+👉@ me on  [Instagram](https://www.instagram.com/darioamade/)
+👉@ me on  [Email](mailto:dario_isd@outlook.com)
+
+
+ <a href="mailto:dario_isd@outlook.com">dario_isd@outlook.com</a>
