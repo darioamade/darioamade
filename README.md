@@ -21,4 +21,4 @@ I am planning to learn React in upcommings months.
 👉@ me on  [Email](mailto:dario_isd@outlook.com)
 
 
- <a href="mailto:dario_isd@outlook.com">dario_isd@outlook.com</a>
+
