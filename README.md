@@ -14,13 +14,16 @@
 I want to make a small game this year. I'm currently learning and Improve my skills with Javascript.
 I am planning to learn React in upcommings months.
 
+### Websites
+
+
 
 ###   Find me
-👉@ me on  [Twitter](https://twitter.com/darioamade) about any thing web dev related
+..*[Twitter](https://twitter.com/darioamade) about any thing web dev related
 
-👉@ me on  [Instagram](https://www.instagram.com/darioamade/)
+[Instagram](https://www.instagram.com/darioamade/)
 
-👉@ me on  [Email](mailto:dario_isd@outlook.com)
+[Email](mailto:dario_isd@outlook.com)
 
 
 
