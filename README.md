@@ -17,7 +17,9 @@ I am planning to learn React in upcommings months.
 
 ###   Find me
 👉@ me on  [Twitter](https://twitter.com/darioamade) about any thing web dev related
+
 👉@ me on  [Instagram](https://www.instagram.com/darioamade/)
+
 👉@ me on  [Email](mailto:dario_isd@outlook.com)
 
 
