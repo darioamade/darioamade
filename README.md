@@ -5,9 +5,8 @@
 - 👯 I’m looking to collaborate on ...Front End Wed dev Topics
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Youtube](https://www.youtube.com/channel/UCHNiz5ljfYgQQUiJGOm63Sg?view_as=subscriber) 
-- 😄 Pronouns: ...He/ Him
 - ⚡ Fun fact: ...I like to ride bikes a lot 🚴‍
--->
+
 
 
 ###   🔭 Goals for 2020
@@ -23,9 +22,7 @@ I am planning to learn React in upcommings months.
 
 ###   Find me
 *  [Twitter](https://twitter.com/darioamade) 
-
 * [Instagram](https://www.instagram.com/darioamade/)
-
 * [Email](mailto:dario_isd@outlook.com)
 
 
