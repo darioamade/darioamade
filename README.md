@@ -29,7 +29,7 @@
 <br />
 
 
-###  🥅 2020 Goals:
+###  🥅  2020 Goals:
 
 * I want to make a small game this year.
 * Improve my skills with Javascript.
