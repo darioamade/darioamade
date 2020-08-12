@@ -26,9 +26,11 @@
  [<img align="left" height="44px" width="40px"  style="float:left; padding-right:10px" alt="my.com" width="22px" src="https://images.squarespace-cdn.com/content/v1/55bb9921e4b039f4637f7d93/1444960018444-SQH8I0R0L5JZXHZV5ZZA/ke17ZwdGBToddI8pDm48kBfVyWX5Ias4oPfH0MO0o8lZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHeRO8JYfRvVP_TDoUWVl2YMZuOB3vBautCRhGTbDR1UfUr2ouyij6iiEnUY_fuS6Q/mail.jpg" />](mailto:dario_isd@outlook.com) 
 <br/>
 <br />
+<br />
 
 
 ###  🥅 2020 Goals:
+
 * I want to make a small game this year.
 * Improve my skills with Javascript.
 * I am planning to learn React in upcoming months.
