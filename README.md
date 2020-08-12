@@ -13,29 +13,19 @@
 - ⚡ Fun fact: I love to ride bikes a lot 🚴‍ and Photography 📸
 <br/>
 <br />
-<br />
-
 ### Connect with me:
 
 
 [<img align="left" height="44px" width="50px"  style="float:left; padding-right:1px" alt="myLinkedin | LinkedIn" width="22px" src="https://www.mtraining.co.uk/media/1326/linkedin-training-manchester.jpg?anchor=center&mode=crop&width=400&rnd=131972200230000000" />](mailto:dario_isd@outlook.com)
   [<img align="left" height="44px" width="50px"  style="float:left; padding-right:10px" alt="myTwitter | Twitter" width="22px" src="https://www.multichannel.com/.image/t_share/MTU0MDYzNjQ2MzI4NjI4MzA2/twitter-logo-450x345jpg.jpg" />](https://twitter.com/darioamade) 
 
-
-
  [<img align="left" height="44px" width="40px"  style="float:left; padding-right:10px" alt="my.com" width="22px" src="https://ih1.redbubble.net/image.952940849.3618/st,small,845x845-pad,1000x1000,f8f8f8.jpg" />](https://www.instagram.com/darioamade/) 
 
 
  [<img align="left" height="44px" width="40px"  style="float:left; padding-right:10px" alt="my.com" width="22px" src="https://images.squarespace-cdn.com/content/v1/55bb9921e4b039f4637f7d93/1444960018444-SQH8I0R0L5JZXHZV5ZZA/ke17ZwdGBToddI8pDm48kBfVyWX5Ias4oPfH0MO0o8lZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHeRO8JYfRvVP_TDoUWVl2YMZuOB3vBautCRhGTbDR1UfUr2ouyij6iiEnUY_fuS6Q/mail.jpg" />](mailto:dario_isd@outlook.com) 
-
-
-
 <br/>
 <br />
-<br />
-<br/>
-<br />
-<br />
+
 
 ###  🥅 2020 Goals:
 * I want to make a small game this year.
@@ -79,10 +69,7 @@
 
 <br />
 <br />
-<br/>
 <br />
-<br />
-
 
 
 ### Websites
@@ -90,19 +77,16 @@
 * [My Blog](https://www.myblog.darioamade.com/blog/)
 * [Youtube](https://www.youtube.com/channel/UCHNiz5ljfYgQQUiJGOm63Sg?view_as=subscriber)
 
-
-
-<br/>
 <br />
 <br />
-
-### 📺 Latest YouTube Videos
+<!-- 
+### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
----
 
-### 📕 Latest Blog Posts
+
+<!-- ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
