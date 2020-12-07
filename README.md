@@ -32,8 +32,8 @@
 ###  🥅  2020 Goals:
 
 * I want to make a small game this year.
-* Improve my skills with Javascript.
-* I am planning to learn React in upcoming months.
+[x] Improve my skills with Javascript.
+[x] I am planning to learn React in upcoming months.
 *  Contribute more to Open Source projects
 
 <br/>
