@@ -29,11 +29,11 @@
 <br />
 
 
-###  🥅  2020 Goals:
+###  🥅  2021 Goals:
 
-* I want to make a small game this year.
-- [x] Improve my skills with Javascript.
-- [x] I am planning to learn React in upcoming months.
+* I want to finish my app that I starded last year.
+- [x] Improve my skills with React.
+- [x] I am planning to learn Python in upcoming months.
 *  Contribute more to Open Source projects
 
 <br/>
