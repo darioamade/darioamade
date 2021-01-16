@@ -6,7 +6,7 @@
 ## I'm a Father, Developer, and Freelancer!
 
 - 🔭 I’m currently working on ...Private projects
-- 🌱 I’m currently learning ...Node.js and improving my Javascript Skills
+- 🌱 I’m currently learning ...Node.js 
 - 👯 I’m looking to collaborate on ...Front End Wed dev Topics
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Youtube](https://www.youtube.com/channel/UCHNiz5ljfYgQQUiJGOm63Sg?view_as=subscriber) 
