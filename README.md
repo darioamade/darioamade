@@ -17,7 +17,7 @@
 ### Connect with me:
 
 
-[<img align="left" height="44px" width="50px"  style="float:left; padding-right:1px" alt="myLinkedin | LinkedIn" width="22px" src="https://www.mtraining.co.uk/media/1326/linkedin-training-manchester.jpg?anchor=center&mode=crop&width=400&rnd=131972200230000000" />](mailto:dario_isd@outlook.com)
+[<img align="left" height="44px" width="50px"  style="float:left; padding-right:1px" alt="myLinkedin | LinkedIn" width="22px" src="https://images.app.goo.gl/KECrTfbj9L7YjJcf9" />](mailto:dario_isd@outlook.com)
   [<img align="left" height="44px" width="50px"  style="float:left; padding-right:10px" alt="myTwitter | Twitter" width="22px" src="https://www.multichannel.com/.image/t_share/MTU0MDYzNjQ2MzI4NjI4MzA2/twitter-logo-450x345jpg.jpg" />](https://twitter.com/darioamade) 
 
  [<img align="left" height="44px" width="40px"  style="float:left; padding-right:10px" alt="my.com" width="22px" src="https://ih1.redbubble.net/image.952940849.3618/st,small,845x845-pad,1000x1000,f8f8f8.jpg" />](https://www.instagram.com/darioamade/) 
