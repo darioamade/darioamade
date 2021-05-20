@@ -1,9 +1,34 @@
 <!-- ### Here is what I'm working on 👋 -->
-### Hi there, I'm Dario  👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dario Amade
 
-<!-- - aka [codeSTACKr][website] 👋 -->
 
-## I'm a Father, Developer, and Freelancer!
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHNiz5ljfYgQQUiJGOm63Sg?label=Subscribe%20to%20my%20channel&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/darioamade?label=Following%20me%20on%20Twitter&style=social)
+
+
+
+
+
+<!-- ## I'm a Father, Developer, and Freelancer! -->
+I'm a self taught junior front-end developer based in London. I'm passionate about building high performant websites, using the latest technologies.
+
+I have been teaching myself web development technologies such as HTML, CSS,JavaScript,Nodejs and React.js through various platforms such as Udemy, Freecodecamp, and building personal projects. I am looking to build up my skills as a web developer.
+
+### Languages and Toolbox 🧰  : 
+
+[<img align="left" alt="HTML5" width="50px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]() <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS log" width="50" heigt="50"  /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript log" width="50" heigt="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React log" width="50" heigt="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node log" width="50" heigt="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express log" width="50" heigt="50" /> [<img align="left" alt="Sass" width="50px" style="float:left; padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]() [<img align="left" alt="Gatsby" width="50px" style="float:left; padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]() [<img align="left" alt="Visual Studio Code" width="50px"  style="float:left; padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]() [<img align="left" alt="Git" width="50px"  style="float:left; padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]() [<img align="left" alt="GitHub" width="50px"  style="float:left; padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]() [<img align="left" alt="HTML5" width="50px"  style="float:left; padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]() <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  alt="Figma log" width="50" heigt="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="MongoDb log" width="50" heigt="50" />
+
+<!-- [<img align="left" alt="GraphQL" height="154px" width="60px"   style="float:left; padding-right:1px"  src="https://cdn.mos.cms.futurecdn.net/cMuZKNUxWfEFfMvcJS6cdF-650-80.jpg.webp" />]() -->
+
+<br />
+<br />
+<br />
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...Private projects
 - 🌱 I’m currently learning ...Node.js 
