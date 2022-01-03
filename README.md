@@ -10,9 +10,7 @@
 
 
 <!-- ## I'm a Father, Developer, and Freelancer! -->
-I'm a self taught junior front-end developer based in London. I'm passionate about building high performant websites, using the latest technologies.
-
-I have been teaching myself web development technologies such as HTML, CSS,JavaScript,Nodejs and React.js through various platforms such as Udemy, Freecodecamp, and building personal projects. I am looking to build up my skills as a web developer.
+I'm a Data Science and Computer Student
 
 ### Languages and Toolbox 🧰  : 
 
@@ -25,8 +23,8 @@ I have been teaching myself web development technologies such as HTML, CSS,JavaS
 <br />
 
 
-- 🔭 I’m currently working on ...Private projects
-- 🌱 I’m currently learning ...React.js 
+- 🔭 I’m currently working on ... Python Projects
+- 🌱 I’m currently learning ...Java 
 - 👯 I’m looking to collaborate on ...Front End Wed dev Topics
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Youtube](https://www.youtube.com/channel/UCHNiz5ljfYgQQUiJGOm63Sg?view_as=subscriber) 
@@ -37,12 +35,14 @@ I have been teaching myself web development technologies such as HTML, CSS,JavaS
 <br />
 
 
-###  🥅  2021 Goals:
+###  🥅  2022 Goals:
 
-- [x] I want to build  a mobile app .
-- [x] Improve my skills with React.
-- [x] I am planning to learn Python in upcoming months.
+- [x] Improve my skills with Python.
+- [x] I am planning to learn Java ... In progress ⏳
 - [x] Contribute more to Open Source projects
+- [x] Looking for InterShip
+- [x] Publish more videos on my Youtube channel related to Dsc
+
 
 
 
