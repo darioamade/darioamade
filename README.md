@@ -35,10 +35,10 @@ I'm a Data Science and Computer Student
 <br />
 
 
-###  🥅  2022 Goals:
+###  🥅  2023 Goals:
 
 - [x] Improve my skills with Python.
-- [x] I am planning to learn Java ... In progress ⏳
+- [x] Improve my skills with Java 
 - [x] Contribute more to Open Source projects
 - [x] Looking for InterShip
 - [x] Publish more videos on my Youtube channel related to Dsc
