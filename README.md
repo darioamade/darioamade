@@ -35,7 +35,7 @@ I'm a Data Science and Computer Student
 <br />
 
 
-###  🥅  2023 Goals:
+###  🥅  2025 Goals:
 
 - [x] Improve my skills with Python.
 - [x] Improve my skills with Java 
